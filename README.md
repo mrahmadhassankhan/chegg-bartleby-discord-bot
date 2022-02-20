@@ -7,7 +7,7 @@ to help students across the globe that cannot afford chegg and bartleby subscrip
 Requirnmets for this script to run:
 1)Subscription of Chegg or Bartleby.
 2)Visual Studio Code(Recommeneded)
-3)You have to install the Npm first(https://nodejs.org/en/download/) thenfollowing Node Javascript Modules Otherwise the code will not run
+3)You have to install the Npm first(https://nodejs.org/en/download/) then following Node Javascript Modules Otherwise the code will not run
 ->npm install discord.js
 ->npm i puppeteer
 ->npm i fs
