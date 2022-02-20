@@ -12,7 +12,8 @@ Requirnmets for this script to run:
 ->npm i puppeteer
 ->npm i fs
 ->npm i puppeteer-extra
-->npm i puppeteer-extra-plugin-stealth
+->npm i puppeteer-extra-plugin-stealth  
+All of these above npm commands you have to paste in the termianl in the visual studio code open the visual studio code and create a node js or java script file and then paste the code or you can import the git repository whatever you like if the terminal window not showing in visual studio code click on view and click on open termainal hmmm  be sure while installing set the node js add to path to install all these in termianl without interruption 
 4)Chegg human verification is hard to bypass but you can avail paid captcha website and put the script of them in my code so the captcha problem will be fixed.
 This problem only occurs with chegg not with bartleby
 5)Need any help regarding code i'm here.
