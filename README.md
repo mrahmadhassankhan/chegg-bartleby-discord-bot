@@ -23,7 +23,6 @@ To run this script, ensure the following requirements are met:
 
 4. Chegg human verification may be challenging to bypass. Consider using a paid captcha-solving service and integrate the script accordingly to resolve captcha-related issues. Note that this problem is specific to Chegg and not Bartleby.
 5. For any coding assistance, feel free to reach out.
-6. Do not copy and paste the code on any other website without explicit permission.
 
 ## Note
 Looking forward to your support!
